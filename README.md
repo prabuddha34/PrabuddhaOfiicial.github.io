@@ -33,11 +33,4 @@ This is my official portfolio hosted on GitHub Pages. It showcases my journey as
 - Add blog/articles about my coding experiences.
 - Enhance the UI/UX.
 
-## Visit
-
-You can visit the live portfolio at: [https://prabuddhaofficial.github.io](https://prabuddhaofficial.github.io)
-
----
-
-Feel free to connect, explore my work, and reach out for any collaboration or feedback!
 
